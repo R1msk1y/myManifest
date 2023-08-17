@@ -1,6 +1,6 @@
 ## myManifest
 myManifest - верстка много-страничного сайта.</br>
-<a href='https://r1msk1y.github.io/myManifest/index.html'>Страница проекта на gitHub Pages<a/>
+<a target="_blank" href='https://r1msk1y.github.io/myManifest/index.html'>Страница проекта на gitHub Pages<a/>
 ___
 - !!Много jQuery</br>
 - !!Реализация 'попАп всплывашек'
