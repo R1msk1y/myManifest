@@ -1,5 +1,5 @@
 ## myManifest
-myManifest - верстка много-страничного сайта.</br>
+myManifest - верстка многостраничного сайта.</br>
 <a target="_blank"
  href='https://r1msk1y.github.io/myManifest/index.html'>Страница проекта на gitHub Pages<a/>
 ___
